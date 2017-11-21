@@ -1,7 +1,7 @@
 # Organic Image Generation using Genetic Algorithms
 Using an existing source image the algorithm attempts to recreate an image using genetic algorithms.
 
-## Example input and outout
+## Example input and output
 ![input](https://github.com/JohnBee/GeneticAlgorithmImageGen/blob/master/example/input.bmp)
 ![output](https://github.com/JohnBee/GeneticAlgorithmImageGen/blob/master/example/out.bmp)
 
