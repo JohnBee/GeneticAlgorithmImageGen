@@ -3,7 +3,7 @@ Using an existing source image the algorithm attempts to recreate image using ge
 
 ## Example input and outout
 ![input](https://github.com/JohnBee/GeneticAlgorithmImageGen/blob/master/example/input.bmp)
-![output](https://github.com/JohnBee/GeneticAlgorithmImageGen/blob/master/example/output.bmp)
+![output](https://github.com/JohnBee/GeneticAlgorithmImageGen/blob/master/example/out.bmp)
 
 ## Built With
 * [Python](https://www.python.org/)
